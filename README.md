@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MyAgentOrtega
+- 👋 Hi, I’m Joseph Ortega
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on D.U Bootcamp projects
