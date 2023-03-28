@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joseph Ortega
+- 👋 Hi, my name is Joseph Ortega
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m constantly developing my Full Stack Web Development skills
 - 💞️ I’m looking to collaborate on D.U Bootcamp projects
 - 📫 How to reach me myagentortega@gmail.com
 
